@@ -3,7 +3,7 @@ _______
 
 A build of a blockchain-based ledger system MVP, complete with a user-friendly web interface. This ledger allows audeience to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
-<img src="application.png" width="500" height="200" />
+<p style="text-align:center;"><img src="application.png" width="500" height="200"/></p>
 
 ## Steps to run the application:
 __________________________________
